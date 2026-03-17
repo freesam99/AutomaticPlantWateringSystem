@@ -87,4 +87,28 @@ wireless communication, it could easily be added using modules like the ESP8266.
 We conducted multiple tests to ensure system reliability. The pump activated correctly when the
 soil dried out, and the LEDs updated consistently. We also confirmed that the relay module
 isolated the high-powered pump from the low-powered Arduino, ensuring both safety and
-functionality.
+functionality.The final system wiring and component layout via Fritzing Diagram are shown in Figure 1:
+
+# 6. Conclusion and Future Work 
+This project successfully demonstrated a functioning prototype of an automatic plant watering
+system. With real-time moisture monitoring and feedback, our system can maintain healthier
+plant conditions with minimal user intervention. This takes the hassle out of owning plants and
+ensures plants are never under or over watered. This project shows how a simple idea or need
+can help push towards innovation. With time and more development, there are definitely some
+improvements we could make and features to be added. 
+
+In the future, we aim to add:
+• Wireless connectivity for remote monitoring
+• Mobile alerts or logging via Bluetooth/WiFi
+• Solar power integration for sustainable outdoor use
+• Enhanced environmental response features like grow lights
+• Integration with a mobile app for control and historical monitoring
+
+Ultimately, this system represents a step toward smart home gardening solutions that make plant
+care more accessible, efficient, and reliable for everyone. As our personal experience has shown,
+even a small device can make a meaningful difference in the life of a plant and its caretaker.
+With its low cost and ease of use, this project has the potential to be scaled and adapted for
+educational use, community gardening, or urban farming. Through this project, we gained
+hands-on experience integrating sensors, actuators, and control logic within a real-world IoT
+application. We also deepened our understanding of hardware-software interaction, system
+reliability, and an understanding of what it takes to turn an idea into something tangible.
